@@ -9,6 +9,7 @@ function EmployeeInfo({data}) {
                 name={employee.name}
                 dept={employee.dept}
                 phone={employee.phone}
+                dob={employee.dob}
             />
         ))
     )

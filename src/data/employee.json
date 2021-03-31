@@ -3,60 +3,70 @@
         "id": 1,
         "name": "Barbara S",
         "dept": "SINGER",
-        "phone": "985-992-6666"
+        "phone": "985-992-6666",
+        "dob": "1/1/2000"
     },
     {
         "id": 2,
         "name": "Ellie Tran",
         "dept": "Dog Trainer",
-        "phone": "985-315-2428"
+        "phone": "985-315-2428",
+        "dob": "2/2/1989"
     },
     {
         "id": 3,
         "name": "Sally Walker",
         "dept": "Fast Walker",
-        "phone": "555-555-5555"
+        "phone": "555-555-5555",
+        "dob": "3/3/2006"
     },
     {
         "id": 4,
         "name": "Young Busco",
         "dept": "Content Creator",
-        "phone": "123-456-7890"
+        "phone": "123-456-7890",
+        "dob": "4/4/1765"
     },
     {
         "id": 5,
         "name": "Matt Damon",
         "dept": "Leo Decaps Stunt Man",
-        "phone": "135-232-2222"
+        "phone": "135-232-2222",
+        "dob": "TBD"
     },
     {
         "id": 6,
         "name": "Rick Roll",
         "dept": "HR",
-        "phone": "345-345-7891"
+        "phone": "345-345-7891",
+        "dob": "10/12/1995"
     },
     {
         "id": 7,
         "name": "Fetty Wap",
         "dept": "Creative Marketing",
-        "phone": "098-765-4321"
+        "phone": "098-765-4321",
+        "dob": "7/13/2001"
     },
     {
         "id": 8,
         "name": "Fred",
         "dept": "Janitorial",
-        "phone": "555-888-9011"
+        "phone": "555-888-9011",
+        "dob": "7/18/1998"
     },
     {
         "id": 9,
         "name": "Steve Irwin",
         "dept": "Conservation Consulting",
-        "phone": "999-999-9999"
+        "phone": "999-999-9999",
+        "dob": "9/21/1987"
     },
     {
         "id": 10,
         "name": "Charlie Chocolate",
         "dept": "Food Distribution",
-        "phone": "222-222-1234"
+        "phone": "222-222-1234",
+        "dob": "2/4/1989"
     }
 ]

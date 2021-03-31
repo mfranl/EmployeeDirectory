@@ -1,0 +1,10 @@
+form {
+  width: 25%;
+  float: right;
+  margin-bottom: 1rem;
+}
+
+button {
+  justify-content: left;
+  margin-top: 1rem;
+}
