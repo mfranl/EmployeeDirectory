@@ -1,5 +1,6 @@
 import axios from "axios";
 import React from "react";
+import 'bootstap/dist/css/bootstrap.min.css';
 
 function Hero() {
 	return (
